@@ -21,6 +21,8 @@ For CPAP
 * some servo wire
 * (optional) Surface scanner probe - Cartogrpaher or Beacon
 
+![BOM-shuttle.jpg](Images/BOM-shuttle.jpg)
+
 ## BOM toolhead 
 
 * 1 set of HGX Lite large gears 2.0 extruder gears and stepper
@@ -34,6 +36,8 @@ For CPAP
 * 2x m3 14mm button head screw
 * a piece of PTFE tube for filament guide
 * 3x m3 heatset inserts
+
+![BOM-tool.jpg](Images/BOM-tool.jpg)
 
 ## BOM Dock
 * 30 mm of 7x0.1mm springsteel, salvageable from 1m tape measure.
